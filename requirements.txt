@@ -4,3 +4,6 @@ requests
 csv
 datetime
 pandas
+re
+requests
+rcParams
